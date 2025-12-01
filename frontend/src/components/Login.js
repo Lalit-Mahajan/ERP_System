@@ -28,7 +28,7 @@ export default function Login() {
 
     return (
         // ✅ CHANGE 1: Responsive layout
-        <div className="min-vh-100 d-flex flex-row">
+        <div className="min-vh-100 d-flex flex-column flex-md-row">
 
             {/* LEFT IMAGE */}
             <div
